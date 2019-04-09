@@ -1,2 +1,2 @@
-# facebook-graph-api-dotnet-core
+# Facebook graph api dotnet core
 Facebook Graph API with dotnet core
